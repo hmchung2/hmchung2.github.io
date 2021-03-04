@@ -3,7 +3,7 @@
 
 ## 프로젝트 주제 
 
-통합계좌 관리 금융시스템입니다. 
+깃허브 포트폴리오 사이트 만들기
 
 ## 전체 설계도 
 
@@ -15,7 +15,7 @@
 
 발표 동영상입니다. 
 
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/eBAyVOb4KAA" frameborder="0"></iframe> 
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/-0i5zyCUjO8" frameborder="0"></iframe> 
 
 ## Reference 
 
