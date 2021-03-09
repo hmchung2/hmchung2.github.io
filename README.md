@@ -22,3 +22,9 @@
 [검색엔진](https://naver.com) 
 
 [Repository 1](https://hmchung2.github.io/hmchung2.github.io)
+
+[my_portfolio](https://hmchung2.github.io/portfolio/)
+
+[my github](https://github.com/hmchung2) 
+
+[my gitlab](https://gitlab.com/hmchung1005)
